@@ -1,0 +1,23 @@
+header{
+    position:absolute;
+    top:0;
+    left:10;
+    width:100%;
+    height:60px;
+    background-color:black;
+    line-height:20px;
+}
+
+header h1{
+    margin-left:10px;
+    color:white;
+}
+
+header ul{
+    float:right;
+}
+
+header ul li{
+    float:left;
+    color:whit;
+}
